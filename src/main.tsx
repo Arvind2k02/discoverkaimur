@@ -2,6 +2,7 @@ import { StrictMode } from 'react';
 import { createRoot, hydrateRoot } from 'react-dom/client';
 import { HelmetProvider } from '@dr.pogodin/react-helmet';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
+import { injectSpeedInsights } from '@vercel/speed-insights';
 import AppErrorBoundary from './components/AppErrorBoundary';
 import App from './App';
 import './styles/globals.css';
@@ -24,6 +25,9 @@ const queryClient = new QueryClient({
     mutations: { retry: 0 },
   },
 });
+
+// Initialize Vercel Speed Insights
+injectSpeedInsights();
 
 const rootElement = document.getElementById('app');
 if (!rootElement) throw new Error('Root element not found');
