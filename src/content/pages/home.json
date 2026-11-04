@@ -1,0 +1,40 @@
+{
+  "sections": [
+    {
+      "href": "/places",
+      "label": "Famous Places",
+      "eyebrow": "Must-Visit Destinations",
+      "description": "Ancient temples, hidden waterfalls, scenic reservoirs — explore the natural and historical wonders of Kaimur.",
+      "img": "/assets/media/uploads-hero-3x8515y2aq-1784981458432-file-c4zq9dwjjt-e58a575a.jpg.jpg",
+      "cta": "Explore Places",
+      "id": "WmqNg3X2d7HNjKcuVru8R"
+    },
+    {
+      "href": "/culture",
+      "label": "Culture & Traditions",
+      "eyebrow": "Heritage & Festivals",
+      "description": "Chhath Puja, folk dances, traditional handicrafts — immerse yourself in the living culture of Bihar.",
+      "img": "/assets/media/culture-folk-dance-c4bdd38c.png",
+      "cta": "Discover Culture",
+      "id": "iWK-w8vHJrhtOfoJZJWvI"
+    },
+    {
+      "href": "/food",
+      "label": "Local Food",
+      "eyebrow": "Taste of Kaimur",
+      "description": "Litti Chokha, Sattu Sharbat, Thekua — savour the bold, earthy flavours of authentic Bihari cuisine.",
+      "img": "/assets/media/Litti-Chokha.jpg",
+      "cta": "See Food Guide",
+      "id": "naY7QNN0mj0mvy4e_Qw4q"
+    },
+    {
+      "href": "/roadmap",
+      "label": "4-Day Roadmap",
+      "eyebrow": "Plan Your Trip",
+      "description": "A day-by-day itinerary covering temples, waterfalls, culture, and cuisine — with practical travel tips.",
+      "img": "/assets/media/uploads-hero-3x8515y2aq-1784981458432-file-c4zq9dwjjt-e58a575a.jpg.jpg",
+      "cta": "View Roadmap",
+      "id": "cgRkSnwGt5Uq-PWAPMQR3"
+    }
+  ]
+}

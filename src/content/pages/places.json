@@ -1,0 +1,84 @@
+{
+  "places": [
+    {
+      "name": "Mundeshwari Devi Temple",
+      "tag": "Sacred Site",
+      "description": "One of the oldest functional Hindu temples in India, dating back to 108 AD. Perched atop Mundeshwari Hill, it is dedicated to Goddess Mundeshwari and Lord Shiva. The octagonal structure is a marvel of ancient architecture that has withstood centuries of history.",
+      "highlight": "Oldest functional temple in India",
+      "img": "/assets/media/uploads-hero-3x8515y2aq-1784981458432-file-c4zq9dwjjt-e58a575a.jpg.jpg",
+      "time": "Year-round",
+      "rating": "4.8",
+      "details": [
+        "Located on Mundeshwari Hill, ~608m above sea level",
+        "Octagonal structure unique in Indian temple architecture",
+        "Active worship site since 108 AD",
+        "Nearest town: Bhabhua (30 km)"
+      ],
+      "id": "7kRfPGfTKcQm7Hbdz02XM"
+    },
+    {
+      "name": "Karakat Waterfall",
+      "tag": "Natural Wonder",
+      "description": "A breathtaking cascade hidden in the lush forests of the Kaimur range. The waterfall is especially spectacular during and after the monsoon season, drawing nature lovers and trekkers from across Bihar.",
+      "highlight": "Best during monsoon (Jul–Sep)",
+      "img": "/assets/media/places-telhar-waterfall-982f455b.jpg.jpg",
+      "time": "Jul – Oct",
+      "rating": "4.6",
+      "details": [
+        "Surrounded by dense Sal and Teak forests",
+        "Short trek required from the road",
+        "Ideal for photography and picnics",
+        "Nearest town: Karakat (5 km)"
+      ],
+      "id": "dtIniN_U_5skCwgnWGRbC"
+    },
+    {
+      "name": "Telhar Waterfall",
+      "tag": "Natural Wonder",
+      "description": "A serene and lesser-known waterfall nestled in the rocky terrain of Kaimur. The crystal-clear water tumbles over ancient rocks, creating a peaceful retreat perfect for picnics and photography.",
+      "highlight": "Perfect for photography",
+      "img": "/assets/media/places-telhar-waterfall-971e07e3.jpg.jpg",
+      "time": "Jul – Oct",
+      "rating": "4.5",
+      "details": [
+        "Rocky terrain with scenic viewpoints",
+        "Less crowded than other waterfalls",
+        "Best visited in the morning",
+        "Accessible by road from Bhabhua"
+      ],
+      "id": "rHkG8v5cJsMDb7bN3Pejo"
+    },
+    {
+      "name": "Maa Mundeshwari Eco Park",
+      "tag": "Nature & Leisure",
+      "description": "Take a relaxing break at Maa Mundeshwari Eco Park, a green space near the famous Mundeshwari temple. Its landscaped entrance, wildlife sculptures, and wooded hill surroundings make it a pleasant stop for families and visitors exploring the area.",
+      "highlight": "A peaceful nature stop near the temple",
+      "img": "/assets/media/maa-mundeshwari-eco-park.jpg",
+      "time": "Year-round",
+      "rating": "4.3",
+      "details": [
+        "Decorative entrance featuring wildlife sculptures",
+        "Green, landscaped setting among the hills",
+        "A scenic spot for a relaxed walk and photos",
+        "Pair your visit with nearby Maa Mundeshwari Temple"
+      ],
+      "id": "Sp82SdhOgtLZSKiY4x8Co"
+    },
+    {
+      "name": "Durgawati Reservoir",
+      "tag": "Scenic Spot",
+      "description": "Built on the Durgawati River, this reservoir is surrounded by the Kaimur hills and dense forests. It is a haven for migratory birds and offers stunning sunset views, making it ideal for birdwatching and nature walks.",
+      "highlight": "Birdwatching paradise",
+      "img": "/assets/media/places-durgawati-reservoir-488d971c.jpg.jpg",
+      "time": "Nov – Feb",
+      "rating": "4.4",
+      "details": [
+        "Home to migratory birds in winter",
+        "Boating available seasonally",
+        "Stunning sunset views over the hills",
+        "Surrounded by Kaimur Wildlife Sanctuary"
+      ],
+      "id": "LbdQ5tflCP_FWurdY2s7U"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "foods": [
+    {
+      "name": "Litti Chokha",
+      "tag": "Must Try",
+      "description": "The soul food of Bihar — wheat balls stuffed with roasted gram flour (sattu), spices, and mustard oil, baked over coal fire and served with mashed roasted brinjal and tomato. A hearty, rustic delight that defines Bihari cuisine.",
+      "img": "/assets/media/Litti-Chokha.jpg",
+      "ingredients": [
+        "Wheat flour dough",
+        "Roasted gram flour (sattu)",
+        "Mustard oil & spices",
+        "Roasted brinjal (chokha)",
+        "Tomato & green chilli"
+      ],
+      "where": "Available at every dhaba and street stall in Bhabhua",
+      "id": "69y33lm0QlB8nWLtODEMz"
+    },
+    {
+      "name": "Sattu Sharbat",
+      "tag": "Local Favourite",
+      "description": "A refreshing summer drink made from roasted gram flour (sattu) mixed with water, lemon, and spices. This nutritious beverage is a staple of Bihari summers and a perfect energy booster for travelers exploring the Kaimur hills.",
+      "img": "/assets/media/food-sattu-drink-bf93e6c5.jpg.jpg",
+      "ingredients": [
+        "Roasted gram flour (sattu)",
+        "Cold water",
+        "Lemon juice",
+        "Black salt & cumin",
+        "Fresh mint (optional)"
+      ],
+      "where": "Roadside stalls and local homes throughout Kaimur",
+      "id": "A8rMEhIi5OTUsbUKCg-H1"
+    },
+    {
+      "name": "Thekua",
+      "tag": "Festival Special",
+      "description": "A crispy, sweet snack made from wheat flour, jaggery, and ghee, deep-fried to golden perfection. Thekua is an essential offering during Chhath Puja and is enjoyed as a festive treat throughout the year. Its distinctive pressed pattern makes it instantly recognizable.",
+      "img": "/assets/media/food-thekua-5e867393.jpg.jpg",
+      "ingredients": [
+        "Whole wheat flour",
+        "Jaggery (gur)",
+        "Ghee",
+        "Fennel seeds",
+        "Coconut (optional)"
+      ],
+      "where": "Sweet shops and homes, especially during Chhath Puja season",
+      "id": "rfk_fe5ujIo3XOoOpoZ74"
+    }
+  ],
+  "tips": [
+    {
+      "tip": "Try litti chokha at a roadside coal-fire dhaba for the most authentic experience.",
+      "id": "LDdaa7Xd0EPm6u9F02ku0"
+    },
+    {
+      "tip": "Sattu sharbat is best enjoyed chilled — ask for it with black salt and lemon.",
+      "id": "7SU4qoIJ1T-Ia8PlDojkr"
+    },
+    {
+      "tip": "Thekua is widely available during Chhath Puja (Oct–Nov) in every household.",
+      "id": "UlfRnEooqSdDE1a7QCZTn"
+    },
+    {
+      "tip": "Most local eateries are vegetarian — ideal for plant-based travelers.",
+      "id": "npm_gv6ycPVxyemKmWyHW"
+    },
+    {
+      "tip": "Carry cash — most street food stalls don't accept digital payments.",
+      "id": "kPaBz56wF0A6Cm-u_xN-t"
+    },
+    {
+      "tip": "Meal budget: ₹100–₹200 per person at local dhabas.",
+      "id": "biviDN4osz9g-LpzofEno"
+    }
+  ]
+}

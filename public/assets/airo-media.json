@@ -1,0 +1,318 @@
+{
+  "places/mundeshwari-temple": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/937177214",
+    "searchQuery": "ancient Hindu temple Bihar India stone architecture",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1488319258",
+      "https://img1.wsimg.com/isteam/getty/1269246379",
+      "https://img1.wsimg.com/isteam/getty/2175929682",
+      "https://img1.wsimg.com/isteam/getty/1324996434"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-04T09:31:13.857Z",
+    "lastUpdated": "2026-07-04T09:31:13.857Z",
+    "gettyId": "937177214",
+    "alternativeGettyIds": [
+      "1488319258",
+      "1269246379",
+      "2175929682",
+      "1324996434"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "warm"
+  },
+  "pages/home/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2259657693",
+    "searchQuery": "Kaimur hills Bihar landscape misty mountains sunrise",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1216910109",
+      "https://img1.wsimg.com/isteam/getty/2237030195",
+      "https://img1.wsimg.com/isteam/getty/1460760693",
+      "https://img1.wsimg.com/isteam/getty/1496965384"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-04T09:31:15.982Z",
+    "lastUpdated": "2026-07-04T09:31:15.982Z",
+    "gettyId": "2259657693",
+    "alternativeGettyIds": [
+      "1216910109",
+      "2237030195",
+      "1460760693",
+      "1496965384"
+    ],
+    "requestedSize": {
+      "width": 1600,
+      "height": 900,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "compositions": "wide_shot",
+    "moods": "dramatic,warm"
+  },
+  "places/karakat-waterfall": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2259556855",
+    "searchQuery": "waterfall jungle forest India Bihar nature",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2260148842",
+      "https://img1.wsimg.com/isteam/getty/2260148843"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-04T09:31:17.051Z",
+    "lastUpdated": "2026-07-04T09:31:17.051Z",
+    "gettyId": "2259556855",
+    "alternativeGettyIds": [
+      "2260148842",
+      "2260148843"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "natural"
+  },
+  "places/telhar-waterfall": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2282741188",
+    "searchQuery": "scenic waterfall rocky hills India nature landscape",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2229846736",
+      "https://img1.wsimg.com/isteam/getty/2156735983",
+      "https://img1.wsimg.com/isteam/getty/2244576266",
+      "https://img1.wsimg.com/isteam/getty/2274680950"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-04T09:31:18.625Z",
+    "lastUpdated": "2026-07-04T09:31:18.625Z",
+    "gettyId": "2282741188",
+    "alternativeGettyIds": [
+      "2229846736",
+      "2156735983",
+      "2244576266",
+      "2274680950"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "natural,vivid"
+  },
+  "places/bhabhua-fort": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2262071654",
+    "searchQuery": "ancient fort ruins India historical architecture",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2218204907",
+      "https://img1.wsimg.com/isteam/getty/1154818897",
+      "https://img1.wsimg.com/isteam/getty/2189716751",
+      "https://img1.wsimg.com/isteam/getty/2210692180"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-04T09:31:19.989Z",
+    "lastUpdated": "2026-07-04T09:31:19.989Z",
+    "gettyId": "2262071654",
+    "alternativeGettyIds": [
+      "2218204907",
+      "1154818897",
+      "2189716751",
+      "2210692180"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "dramatic"
+  },
+  "places/durgawati-reservoir": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2246157318",
+    "searchQuery": "reservoir lake dam India scenic water landscape",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2265896470",
+      "https://img1.wsimg.com/isteam/getty/487688847",
+      "https://img1.wsimg.com/isteam/getty/2259619534",
+      "https://img1.wsimg.com/isteam/getty/2258889661"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-04T09:31:21.219Z",
+    "lastUpdated": "2026-07-04T09:31:21.219Z",
+    "gettyId": "2246157318",
+    "alternativeGettyIds": [
+      "2265896470",
+      "487688847",
+      "2259619534",
+      "2258889661"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "natural"
+  },
+  "culture/folk-dance": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1270723079",
+    "searchQuery": "Indian folk dance traditional costume Bihar festival celebration",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1440475080",
+      "https://img1.wsimg.com/isteam/getty/2210348579",
+      "https://img1.wsimg.com/isteam/getty/1159747816",
+      "https://img1.wsimg.com/isteam/getty/490238126"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-04T09:31:22.814Z",
+    "lastUpdated": "2026-07-04T09:31:22.814Z",
+    "gettyId": "1270723079",
+    "alternativeGettyIds": [
+      "1440475080",
+      "2210348579",
+      "1159747816",
+      "490238126"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "vivid,bold"
+  },
+  "culture/festival": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1069913314",
+    "searchQuery": "Chhath Puja festival Bihar India river worship sunrise",
+    "alternatives": [],
+    "userModified": false,
+    "createdAt": "2026-07-04T09:31:24.894Z",
+    "lastUpdated": "2026-07-04T09:31:24.894Z",
+    "gettyId": "1069913314",
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "warm,vivid"
+  },
+  "culture/handicraft": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/137830124",
+    "searchQuery": "Indian traditional handicraft pottery weaving artisan Bihar",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2183095562"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-04T09:31:25.332Z",
+    "lastUpdated": "2026-07-04T09:31:25.332Z",
+    "gettyId": "137830124",
+    "alternativeGettyIds": [
+      "2183095562"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "warm"
+  },
+  "food/litti-chokha": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1351867544",
+    "searchQuery": "litti chokha traditional Bihar food Indian cuisine rustic",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2222352974",
+      "https://img1.wsimg.com/isteam/getty/1465371691",
+      "https://img1.wsimg.com/isteam/getty/1189087947",
+      "https://img1.wsimg.com/isteam/getty/2184475745"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-04T09:31:26.465Z",
+    "lastUpdated": "2026-07-04T09:31:26.465Z",
+    "gettyId": "1351867544",
+    "alternativeGettyIds": [
+      "2222352974",
+      "1465371691",
+      "1189087947",
+      "2184475745"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "warm"
+  },
+  "food/sattu-drink": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2246007810",
+    "searchQuery": "Indian traditional drink clay pot refreshing summer beverage",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2213149896",
+      "https://img1.wsimg.com/isteam/getty/979995380",
+      "https://img1.wsimg.com/isteam/getty/2281020682",
+      "https://img1.wsimg.com/isteam/getty/2279712940"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-04T09:31:27.698Z",
+    "lastUpdated": "2026-07-04T09:31:27.698Z",
+    "gettyId": "2246007810",
+    "alternativeGettyIds": [
+      "2213149896",
+      "979995380",
+      "2281020682",
+      "2279712940"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "warm"
+  },
+  "food/thekua": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1351868394",
+    "searchQuery": "Indian sweet snack traditional festival food Bihar",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2186908764",
+      "https://img1.wsimg.com/isteam/getty/2088892638",
+      "https://img1.wsimg.com/isteam/getty/1465371692",
+      "https://img1.wsimg.com/isteam/getty/1382731269"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-04T09:31:29.368Z",
+    "lastUpdated": "2026-07-04T09:31:29.368Z",
+    "gettyId": "1351868394",
+    "alternativeGettyIds": [
+      "2186908764",
+      "2088892638",
+      "1465371692",
+      "1382731269"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "warm"
+  }
+}

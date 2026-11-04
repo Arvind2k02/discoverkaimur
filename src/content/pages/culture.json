@@ -1,0 +1,81 @@
+{
+  "cultureItems": [
+    {
+      "title": "Chhath Puja",
+      "subtitle": "The Grand Sun Festival",
+      "description": "The most revered festival of Bihar, Chhath Puja is a four-day celebration dedicated to the Sun God. Devotees gather at riverbanks at sunrise and sunset to offer prayers, creating a mesmerizing spectacle of devotion and color. The festival involves rigorous fasting, ritual bathing, and offering of fruits and sweets.",
+      "img": "/assets/media/chhath%20puja.jpg",
+      "facts": [
+        "Celebrated in October–November",
+        "Four-day fasting ritual",
+        "Prayers at sunrise and sunset",
+        "Offerings of sugarcane, fruits & thekua"
+      ],
+      "id": "TJPYnQiG_IAVKBcQxL7JL"
+    },
+    {
+      "title": "Folk Dance & Music",
+      "subtitle": "Living Traditions",
+      "description": "Kaimur is alive with the sounds of Birha, Jhumar, and Sohar — traditional folk forms that narrate tales of love, valor, and harvest. Local performers in vibrant costumes bring these art forms to life at every festival. The Birha genre, in particular, is known for its soulful melodies and poetic storytelling.",
+      "img": "/assets/media/culture-folk-dance-c4bdd38c.png",
+      "facts": [
+        "Birha — soulful narrative folk songs",
+        "Jhumar — harvest celebration dance",
+        "Sohar — birth celebration songs",
+        "Performed at every major festival"
+      ],
+      "id": "0YOi-iyThrjLNh_8JXi58"
+    },
+    {
+      "title": "Traditional Handicrafts",
+      "subtitle": "Artisan Heritage",
+      "description": "Skilled artisans of Kaimur craft beautiful pottery, bamboo baskets, and handwoven textiles. These crafts, passed down through generations, reflect the region's deep connection with nature and its artistic heritage. Madhubani-influenced paintings and terracotta work are also popular among visitors.",
+      "img": "/assets/media/culture-handicraft-44d32d27.png.png",
+      "facts": [
+        "Bamboo and cane basketry",
+        "Terracotta pottery",
+        "Handwoven textiles",
+        "Madhubani-style folk paintings"
+      ],
+      "id": "bqVTW-P6OSRRqanmfN94I"
+    }
+  ],
+  "festivals": [
+    {
+      "name": "Chhath Puja",
+      "month": "Oct–Nov",
+      "description": "Sun worship festival at riverbanks",
+      "id": "sI8vY1xxGf8KMPAodZ_lX"
+    },
+    {
+      "name": "Holi",
+      "month": "March",
+      "description": "Festival of colors with folk music",
+      "id": "soUlfOAIVQmtb61YWHj-6"
+    },
+    {
+      "name": "Diwali",
+      "month": "Oct–Nov",
+      "description": "Festival of lights and sweets",
+      "id": "HosbK15dCPkfhRcHPdJpr"
+    },
+    {
+      "name": "Makar Sankranti",
+      "month": "January",
+      "description": "Harvest festival with kite flying",
+      "id": "ShNUppX_00FJShpsGgaqF"
+    },
+    {
+      "name": "Ram Navami",
+      "month": "March–April",
+      "description": "Celebration of Lord Ram's birth",
+      "id": "uzKsIurU1mMqFmHncVGen"
+    },
+    {
+      "name": "Teej",
+      "month": "July–August",
+      "description": "Women's festival with songs and swings",
+      "id": "6I_GDtrvXq0dMyVCNjtvB"
+    }
+  ]
+}

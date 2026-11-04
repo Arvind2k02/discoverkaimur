@@ -1,0 +1,374 @@
+{
+  "places/mundeshwari-temple": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/places-mundeshwari-temple-e0ba7ed8.jpg",
+    "searchQuery": "ancient stone temple with carved sculptures",
+    "alternatives": [
+      "/airo-assets/uploads/places-mundeshwari-temple-e58a575a.jpg",
+      "https://img1.wsimg.com/isteam/getty/937177214",
+      "https://img1.wsimg.com/isteam/getty/1488319258",
+      "https://img1.wsimg.com/isteam/getty/1269246379",
+      "https://img1.wsimg.com/isteam/getty/2175929682",
+      "https://img1.wsimg.com/isteam/getty/1324996434"
+    ],
+    "userModified": true,
+    "createdAt": "2026-07-04T09:31:13.857Z",
+    "lastUpdated": "2026-07-25T12:20:50.972Z",
+    "alternativeGettyIds": [
+      "",
+      "937177214",
+      "1488319258",
+      "1269246379",
+      "2175929682",
+      "1324996434"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "warm",
+    "uploadSources": {
+      "/airo-assets/uploads/places-mundeshwari-temple-e58a575a.jpg": "3x8515y2aq_1784981458432_file_C4zQ9DwJJT.jpg",
+      "/airo-assets/uploads/places-mundeshwari-temple-e0ba7ed8.jpg": "3x8515y2aq_1784981458432_file_C4zQ9DwJJT.jpg"
+    },
+    "uploadContentHash": "9979a88867b5f7848ec46a05c36dbad5a01bc67fa0ca4c86bb1e9d1cd729ddb5",
+    "caption": "ancient stone temple with carved sculptures"
+  },
+  "pages/home/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2259657693",
+    "searchQuery": "Kaimur hills Bihar landscape misty mountains sunrise",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1216910109",
+      "https://img1.wsimg.com/isteam/getty/2237030195",
+      "https://img1.wsimg.com/isteam/getty/1460760693",
+      "https://img1.wsimg.com/isteam/getty/1496965384"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-04T09:31:15.982Z",
+    "lastUpdated": "2026-07-04T09:31:15.982Z",
+    "gettyId": "2259657693",
+    "alternativeGettyIds": [
+      "1216910109",
+      "2237030195",
+      "1460760693",
+      "1496965384"
+    ],
+    "requestedSize": {
+      "width": 1600,
+      "height": 900,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "compositions": "wide_shot",
+    "moods": "dramatic,warm"
+  },
+  "places/karakat-waterfall": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2259556855",
+    "searchQuery": "waterfall jungle forest India Bihar nature",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2260148842",
+      "https://img1.wsimg.com/isteam/getty/2260148843"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-04T09:31:17.051Z",
+    "lastUpdated": "2026-07-04T09:31:17.051Z",
+    "gettyId": "2259556855",
+    "alternativeGettyIds": [
+      "2260148842",
+      "2260148843"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "natural"
+  },
+  "places/telhar-waterfall": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/places-telhar-waterfall-971e07e3.jpg",
+    "searchQuery": "waterfall cascading into gorge pool surrounded by lush vegetation",
+    "alternatives": [
+      "/airo-assets/uploads/places-telhar-waterfall-982f455b.jpg",
+      "https://img1.wsimg.com/isteam/getty/2282741188",
+      "https://img1.wsimg.com/isteam/getty/2229846736",
+      "https://img1.wsimg.com/isteam/getty/2156735983",
+      "https://img1.wsimg.com/isteam/getty/2244576266",
+      "https://img1.wsimg.com/isteam/getty/2274680950"
+    ],
+    "userModified": true,
+    "createdAt": "2026-07-04T09:31:18.625Z",
+    "lastUpdated": "2026-07-25T15:28:43.668Z",
+    "alternativeGettyIds": [
+      "",
+      "2282741188",
+      "2229846736",
+      "2156735983",
+      "2244576266",
+      "2274680950"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "natural,vivid",
+    "uploadSources": {
+      "/airo-assets/uploads/places-telhar-waterfall-982f455b.jpg": "3x8515y2aq_1784982915116_file_0wb2n99njV.jpg",
+      "/airo-assets/uploads/places-telhar-waterfall-971e07e3.jpg": "3x8515y2aq_1784993323663_file_lzIOkR1E0Y.jpg"
+    },
+    "caption": "waterfall cascading into gorge pool surrounded by lush vegetation"
+  },
+  "places/bhabhua-fort": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2262071654",
+    "searchQuery": "ancient fort ruins India historical architecture",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2218204907",
+      "https://img1.wsimg.com/isteam/getty/1154818897",
+      "https://img1.wsimg.com/isteam/getty/2189716751",
+      "https://img1.wsimg.com/isteam/getty/2210692180"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-04T09:31:19.989Z",
+    "lastUpdated": "2026-07-04T09:31:19.989Z",
+    "gettyId": "2262071654",
+    "alternativeGettyIds": [
+      "2218204907",
+      "1154818897",
+      "2189716751",
+      "2210692180"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "dramatic"
+  },
+  "places/durgawati-reservoir": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/places-durgawati-reservoir-488d971c.jpg",
+    "searchQuery": "dam crossing reservoir mountain landscape",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2246157318",
+      "https://img1.wsimg.com/isteam/getty/2265896470",
+      "https://img1.wsimg.com/isteam/getty/487688847",
+      "https://img1.wsimg.com/isteam/getty/2259619534",
+      "https://img1.wsimg.com/isteam/getty/2258889661"
+    ],
+    "userModified": true,
+    "createdAt": "2026-07-04T09:31:21.219Z",
+    "lastUpdated": "2026-07-25T13:03:10.651Z",
+    "alternativeGettyIds": [
+      "2246157318",
+      "2265896470",
+      "487688847",
+      "2259619534",
+      "2258889661"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "natural",
+    "uploadSources": {
+      "/airo-assets/uploads/places-durgawati-reservoir-488d971c.jpg": "3x8515y2aq_1784984590647_file_Nq-ClEVBcV.jpg"
+    },
+    "caption": "dam crossing reservoir mountain landscape"
+  },
+  "culture/folk-dance": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/culture-folk-dance-c4bdd38c.png",
+    "searchQuery": "folk dances kaimur bihar cultural heritage",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1270723079",
+      "https://img1.wsimg.com/isteam/getty/1440475080",
+      "https://img1.wsimg.com/isteam/getty/2210348579",
+      "https://img1.wsimg.com/isteam/getty/1159747816",
+      "https://img1.wsimg.com/isteam/getty/490238126"
+    ],
+    "userModified": true,
+    "createdAt": "2026-07-04T09:31:22.814Z",
+    "lastUpdated": "2026-07-25T15:50:19.476Z",
+    "alternativeGettyIds": [
+      "1270723079",
+      "1440475080",
+      "2210348579",
+      "1159747816",
+      "490238126"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "vivid,bold",
+    "uploadSources": {
+      "/airo-assets/uploads/culture-folk-dance-c4bdd38c.png": "3x8515y2aq_1784994619466_file_oFs-e6FQxI.png"
+    },
+    "caption": "folk dances kaimur bihar cultural heritage"
+  },
+  "culture/festival": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1069913314",
+    "searchQuery": "Chhath Puja festival Bihar India river worship sunrise",
+    "alternatives": [],
+    "userModified": false,
+    "createdAt": "2026-07-04T09:31:24.894Z",
+    "lastUpdated": "2026-07-04T09:31:24.894Z",
+    "gettyId": "1069913314",
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "warm,vivid"
+  },
+  "culture/handicraft": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/culture-handicraft-44d32d27.png",
+    "searchQuery": "hands weaving straw basket craft",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/137830124",
+      "https://img1.wsimg.com/isteam/getty/2183095562"
+    ],
+    "userModified": true,
+    "createdAt": "2026-07-04T09:31:25.332Z",
+    "lastUpdated": "2026-07-25T12:54:22.022Z",
+    "alternativeGettyIds": [
+      "137830124",
+      "2183095562"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "warm",
+    "uploadSources": {
+      "/airo-assets/uploads/culture-handicraft-44d32d27.png": "3x8515y2aq_1784984062015_file_bCT0xJgRci.png"
+    },
+    "caption": "hands weaving straw basket craft"
+  },
+  "food/litti-chokha": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1351867544",
+    "searchQuery": "litti chokha traditional Bihar food Indian cuisine rustic",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2222352974",
+      "https://img1.wsimg.com/isteam/getty/1465371691",
+      "https://img1.wsimg.com/isteam/getty/1189087947",
+      "https://img1.wsimg.com/isteam/getty/2184475745"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-04T09:31:26.465Z",
+    "lastUpdated": "2026-07-04T09:31:26.465Z",
+    "gettyId": "1351867544",
+    "alternativeGettyIds": [
+      "2222352974",
+      "1465371691",
+      "1189087947",
+      "2184475745"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "warm"
+  },
+  "food/sattu-drink": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/food-sattu-drink-bf93e6c5.jpg",
+    "searchQuery": "creamy cocktail with lime garnish herbs",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2246007810",
+      "https://img1.wsimg.com/isteam/getty/2213149896",
+      "https://img1.wsimg.com/isteam/getty/979995380",
+      "https://img1.wsimg.com/isteam/getty/2281020682",
+      "https://img1.wsimg.com/isteam/getty/2279712940"
+    ],
+    "userModified": true,
+    "createdAt": "2026-07-04T09:31:27.698Z",
+    "lastUpdated": "2026-07-25T12:40:23.155Z",
+    "alternativeGettyIds": [
+      "2246007810",
+      "2213149896",
+      "979995380",
+      "2281020682",
+      "2279712940"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "warm",
+    "uploadSources": {
+      "/airo-assets/uploads/food-sattu-drink-bf93e6c5.jpg": "3x8515y2aq_1784983223149_file_9hDYC3wZ7f.jpg"
+    },
+    "caption": "creamy cocktail with lime garnish herbs"
+  },
+  "food/thekua": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/food-thekua-5e867393.jpg",
+    "searchQuery": "crispy fried cookies in terracotta bowl",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1351868394",
+      "https://img1.wsimg.com/isteam/getty/2186908764",
+      "https://img1.wsimg.com/isteam/getty/2088892638",
+      "https://img1.wsimg.com/isteam/getty/1465371692",
+      "https://img1.wsimg.com/isteam/getty/1382731269"
+    ],
+    "userModified": true,
+    "createdAt": "2026-07-04T09:31:29.368Z",
+    "lastUpdated": "2026-07-25T12:44:00.537Z",
+    "alternativeGettyIds": [
+      "1351868394",
+      "2186908764",
+      "2088892638",
+      "1465371692",
+      "1382731269"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "warm",
+    "uploadSources": {
+      "/airo-assets/uploads/food-thekua-5e867393.jpg": "3x8515y2aq_1784983440532_file_blYgDFXUEO.jpg"
+    },
+    "caption": "crispy fried cookies in terracotta bowl"
+  },
+  "uploads/hero-3x8515y2aq-1784981458432-file-c4zq9dwjjt": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-3x8515y2aq-1784981458432-file-c4zq9dwjjt-e58a575a.jpg",
+    "searchQuery": "ancient stone temple with carved sculptures",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-07-25T12:13:36.198Z",
+    "lastUpdated": "2026-07-25T12:19:47.337Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-3x8515y2aq-1784981458432-file-c4zq9dwjjt-e58a575a.jpg": "3x8515y2aq_1784981458432_file_C4zQ9DwJJT.jpg"
+    },
+    "uploadContentHash": "731c4008846fcf686a3cb155829eeeaffd7484b4378fe15147013b68ae249b6c",
+    "caption": "ancient stone temple with carved sculptures"
+  }
+}

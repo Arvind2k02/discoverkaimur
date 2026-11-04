@@ -1,0 +1,164 @@
+{
+  "roadmapDays": [
+    {
+      "day": "Day 1",
+      "title": "Arrive & Explore Bhabhua",
+      "color": "bg-primary",
+      "stops": [
+        {
+          "time": "Morning",
+          "place": "Arrive at Bhabhua (District HQ)",
+          "note": "Check in, rest and freshen up",
+          "id": "Oy2mL1v8DUbi2CbFBfMUT"
+        },
+        {
+          "time": "Afternoon",
+          "place": "Bhabhua Fort",
+          "note": "Historical exploration & panoramic views",
+          "id": "xRja_eLWQQrKu0tW13-lc"
+        },
+        {
+          "time": "Evening",
+          "place": "Local market & street food",
+          "note": "Try Litti Chokha at a coal-fire dhaba",
+          "id": "W_gl3q7ofIAOAgToh6y80"
+        },
+        {
+          "time": "Night",
+          "place": "Bhabhua town",
+          "note": "Rest at your hotel",
+          "id": "7UlD47WUTY3etJlH7qfIu"
+        }
+      ],
+      "id": "zMNKdBcXAZFOtuDgLJXIr"
+    },
+    {
+      "day": "Day 2",
+      "title": "Sacred Temples & Hills",
+      "color": "bg-secondary",
+      "stops": [
+        {
+          "time": "Early Morning",
+          "place": "Mundeshwari Devi Temple",
+          "note": "Sunrise prayers — most peaceful time",
+          "id": "4X0kTV3ewI1eTbF-RSpwh"
+        },
+        {
+          "time": "Morning",
+          "place": "Mundeshwari Hill Trek",
+          "note": "Panoramic views of Kaimur plains",
+          "id": "q6-3RxwldOXBOgqkGoc2o"
+        },
+        {
+          "time": "Afternoon",
+          "place": "Return to Bhabhua",
+          "note": "Lunch at local dhaba",
+          "id": "zHZkDmmz_AVknJSY7ZS7a"
+        },
+        {
+          "time": "Evening",
+          "place": "Bhabhua market",
+          "note": "Shop for local handicrafts & souvenirs",
+          "id": "qbLY3J-GU5HriU3ubkEl_"
+        }
+      ],
+      "id": "nkLSYDpjQ_AbSyrSn1qC_"
+    },
+    {
+      "day": "Day 3",
+      "title": "Waterfalls & Nature",
+      "color": "bg-accent",
+      "stops": [
+        {
+          "time": "Morning",
+          "place": "Telhar Waterfall",
+          "note": "Photography & peaceful morning walk",
+          "id": "tmI7EAngIa9PZodbNYXIh"
+        },
+        {
+          "time": "Afternoon",
+          "place": "Karakat Waterfall",
+          "note": "Nature walk, swimming & picnic",
+          "id": "agAvP2-OkpV0FSe0RuetB"
+        },
+        {
+          "time": "Evening",
+          "place": "Forest camp or hotel",
+          "note": "Bonfire & folk music if available",
+          "id": "hrSZK8H3C9CugxiL7yla0"
+        },
+        {
+          "time": "Night",
+          "place": "Camp or Bhabhua",
+          "note": "Rest after a full day outdoors",
+          "id": "8WPkQH4nqAqmwggwJpfuP"
+        }
+      ],
+      "id": "3hWgJKbTB_CROt3BT33YV"
+    },
+    {
+      "day": "Day 4",
+      "title": "Reservoir & Departure",
+      "color": "bg-primary",
+      "stops": [
+        {
+          "time": "Early Morning",
+          "place": "Durgawati Reservoir",
+          "note": "Birdwatching at sunrise — bring binoculars",
+          "id": "gvnycOT_hucWd-QN6M_Fg"
+        },
+        {
+          "time": "Morning",
+          "place": "Reservoir nature walk",
+          "note": "Spot migratory birds in winter",
+          "id": "d0LXo7QLQZxp8F55AwLui"
+        },
+        {
+          "time": "Afternoon",
+          "place": "Local handicraft shopping",
+          "note": "Take home pottery, bamboo crafts & thekua",
+          "id": "RjocCo53EJDK_3ifIQfPc"
+        },
+        {
+          "time": "Evening",
+          "place": "Depart from Bhabhua",
+          "note": "Safe travels!",
+          "id": "IViBK9eT2Rw2_ZrvDiz5r"
+        }
+      ],
+      "id": "PCb7z8r8cKcoj1wNjaIax"
+    }
+  ],
+  "travelTips": [
+    {
+      "label": "Getting There",
+      "tip": "Nearest railway station: Bhabhua Road on the Delhi–Kolkata main line. Taxis available from station.",
+      "id": "kx-zMvdm2jcLsP37mOVYD"
+    },
+    {
+      "label": "Best Season",
+      "tip": "October to March — cool and pleasant. Avoid May–June (extreme heat). Monsoon (Jul–Sep) for waterfalls.",
+      "id": "3NcHEx9Z1cROcH4RXrESn"
+    },
+    {
+      "label": "Where to Stay",
+      "tip": "Bhabhua has budget hotels and guesthouses. Book in advance during Chhath Puja season (Oct–Nov).",
+      "id": "jhuDkssgV2F6XsImqACUP"
+    },
+    {
+      "label": "Language",
+      "tip": "Bhojpuri and Hindi are widely spoken. Basic Hindi phrases will go a long way with locals.",
+      "id": "Te2dRvXZ6oitVlvhYmu4E"
+    },
+    {
+      "label": "Budget",
+      "tip": "₹1,500–₹2,500 per day including food, stay, and local transport. Carry cash — ATMs are limited outside Bhabhua.",
+      "id": "3i2teRM-YGFufcUu7XtD0"
+    },
+    {
+      "label": "Photography",
+      "tip": "Carry a wide-angle lens for waterfalls and landscapes. Golden hour at Mundeshwari Hill is spectacular.",
+      "id": "oajrmElBKY0eMnRomcQYI"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <script>
+      (function () {
+        try {
+          var u = new URL(location.href);
+          if (u.searchParams.has('airoShareToken')) {
+            u.searchParams.delete('airoShareToken');
+            history.replaceState(null, '', u.toString());
+          }
+        } catch (e) {}
+      })();
+    </script>
+    <meta name="referrer" content="same-origin" />
+    <link rel="icon" type="image/png" href="/assets/kaimur-logo-site-bg.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!--app-head-->
+    <script src="/assets/airo-video-slots.js"></script>
+    <script src="/assets/airo-logo-orientation.js"></script>
+    <script type="module" crossorigin src="/assets/index-DiQYohAi.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/query-BhKSxczA.js">
+    <link rel="modulepreload" crossorigin href="/assets/react-vendor-BX2I6q8G.js">
+    <link rel="modulepreload" crossorigin href="/assets/radix-ui-C7zs4y2K.js">
+    <link rel="stylesheet" crossorigin href="/assets/index-CcS0DtR4.css">
+  </head>
+  <body class="fs-unmask-airo-app-builder">
+    <div id="app" class="fs-unmask-airo-app-builder"><!--app-html--></div>
+    <script src="/assets/analytics.js"></script>
+  </body>
+</html>
